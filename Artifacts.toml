@@ -1,0 +1,143 @@
+[[RLIBM_32]]
+arch = "aarch64"
+git-tree-sha1 = "ff5b49adf0d8b9fcf8cb7565f570362accf3a5ff"
+os = "macos"
+
+    [[RLIBM_32.download]]
+    sha256 = "8992f4b70cfd60844a7448b08913502832143ea2378c57d05c63cfd8f0ee63ca"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[RLIBM_32]]
+arch = "aarch64"
+git-tree-sha1 = "2398ba6f3662a4ce077c458421b2c498475f147a"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "0c186692de9f068dc937fb6f3f4119869df4672162f574efd1aad2cd122771da"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[RLIBM_32]]
+arch = "aarch64"
+git-tree-sha1 = "3f5b657bc9772856bc6ea1ab00bd32cea432f22e"
+libc = "musl"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "fb98f646d79ea4a0b755802588d5f4a01aebf085acf724f4baed25b4dc996696"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.aarch64-linux-musl.tar.gz"
+[[RLIBM_32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f631c3af2f88780ea2b37ce20158ec9a814fea97"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "c53ab657235181c8b16f3d5efc01af2d4718a860a66975e27403ff60b6d5da73"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[RLIBM_32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "80ab8608e9ca7b89408fa198076f467b7909caea"
+libc = "musl"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "f697ba4c7c6034b5cfb29d4cefb5c4f561ec8e3b7e7852c02581a41d14aab1c2"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[RLIBM_32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "22e4f55b312cce5edd3ae213b811dcfc73030c7f"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "7b9f35d950d660a0c398a3f621d6a4651b5eb9b1c6753d1feba0d2087fe5a794"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[RLIBM_32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4a305cd783857458e366d72d52335f73f5e8c50"
+libc = "musl"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "5a1b69b44659c13aa5afa578a7b73cb659bf337e162234c0f52b1a3b6de094d2"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[RLIBM_32]]
+arch = "i686"
+git-tree-sha1 = "ae0266839f664e09de391ed9df6162b7ba4d2b17"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "650c78a6b3d37496f2d57372407a36319946508c46dfa460bb87efd2880c8195"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.i686-linux-gnu.tar.gz"
+[[RLIBM_32]]
+arch = "i686"
+git-tree-sha1 = "1454afab588642c499b22bda7dcd6bc7aad5ab96"
+libc = "musl"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "4af7f89c78fa7cc3a17367199f51e39343c0d0dece26d7a9b27901483a202127"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.i686-linux-musl.tar.gz"
+[[RLIBM_32]]
+arch = "i686"
+git-tree-sha1 = "e5c437671cf51e7a6dff4b03c139e6f76d626c93"
+os = "windows"
+
+    [[RLIBM_32.download]]
+    sha256 = "78fe45262f925e9604baef012eebb0d06ef4d1dad17f13726e1bcf997cfb5294"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.i686-w64-mingw32.tar.gz"
+[[RLIBM_32]]
+arch = "powerpc64le"
+git-tree-sha1 = "4671a5ab0c107f4177a63bf71162f9274c86047f"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "da255a0ca7ac2cc327eb30c6d933c3be5a95e62ed59f4488fbb43498734bbe47"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[RLIBM_32]]
+arch = "x86_64"
+git-tree-sha1 = "514774197ba8e7c1210f46e09237896b06fafa1c"
+os = "macos"
+
+    [[RLIBM_32.download]]
+    sha256 = "77c416601d6a06200a441be4e44cbd2cb2b46ac7ec0389c8f4b94a7560ba4f02"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[RLIBM_32]]
+arch = "x86_64"
+git-tree-sha1 = "2f39653432bc680dad7cb0295173cd7884a05809"
+libc = "glibc"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "91528013a02b7331e1e7c87e93b90ff05af410f1cf376b4b6f481c0d7ac380ec"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[RLIBM_32]]
+arch = "x86_64"
+git-tree-sha1 = "8f40bce9acb0179535eb87515aee06a82c8dc484"
+libc = "musl"
+os = "linux"
+
+    [[RLIBM_32.download]]
+    sha256 = "da5c505487456ba4be49b5d640e27f343ceb19dac2a1268dd889569d09161e9f"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.x86_64-linux-musl.tar.gz"
+[[RLIBM_32]]
+arch = "x86_64"
+git-tree-sha1 = "30ab127b7d5fb663900e3842cf2b0eeb857debdc"
+os = "freebsd"
+
+    [[RLIBM_32.download]]
+    sha256 = "e0024831854a3e102bf60e613a8514ca58e908bee7fe85aa9b52441c68dd6ba2"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[RLIBM_32]]
+arch = "x86_64"
+git-tree-sha1 = "8bb05df7b4a919ae8d9c83313fe59aade0ea1539"
+os = "windows"
+
+    [[RLIBM_32.download]]
+    sha256 = "c12286c89b6cebd0a05687b63cacf54579b7a98ce40fb9e51249918ddc569894"
+    url = "https://github.com/JuliaBinaryWrappers/RLIBM_32_jll.jl/releases/download/RLIBM_32-v0.0.1+0/RLIBM_32.v0.0.1.x86_64-w64-mingw32.tar.gz"
